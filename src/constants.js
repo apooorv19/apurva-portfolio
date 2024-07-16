@@ -5,46 +5,35 @@ export const services = [
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Software Engineer",
+        title: "Data Analyst",
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Photographer",
+        title: "Gamer",
         icon: 'https://csgeeek.github.io/web.png',
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Apurva';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
+        'company': 'Accenture',
+        'role': 'Data Analyst Intern',
+        'duration': 'May 2024 - Present',
+        'logo': 'https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg',
         'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            'Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.',
+            'Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions.',
+            'Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders 📈',
+            'Analysed complex datasets using SQL, leading to actionable insights communicated through a PowerPoint deck and video presentation, increasing client satisfaction scores by 15 ⚙️'
         ],
-        'url': 'https://inncircles.com/#home',
-    },
-    {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
-        'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
-        ],
-        'url': 'https://www.att.com/',
+        'url': 'https://www.linkedin.com/posts/apooorv_forage-certificate-activity-7196894757413904384-8YIj?utm_source=share&utm_medium=member_desktop',
     },
 ]
 
 
 
-export const EMAIL_JS_SERVICE_ID = 'service_90wb9t5';
-export const EMAIL_JS_TEMPLATE_ID = 'template_8l87rew';
-export const EMAIL_JS_PUBLIC_KEY = 'pHPjc9RGGkF66r86N';
+export const EMAIL_JS_SERVICE_ID = 'service_g0aq3rr';
+export const EMAIL_JS_TEMPLATE_ID = 'template_4rzt2da';
+export const EMAIL_JS_PUBLIC_KEY = '5-HjZ0P9vG-yDT1PG';
